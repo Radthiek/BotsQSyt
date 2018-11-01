@@ -22,24 +22,6 @@ client.on('ready', () => {
   console.log('?[????????????????????????????????????]?')
 });
 
-client.on("ready", async  => {
-setInterval(function(){
-client.channels.find('id', '507463091299155968').setName("༺");
-client.channels.find('id', '507463091299155968').setName("༺W");
-client.channels.find('id', '507463091299155968').setName("༺We");
-client.channels.find('id', '507463091299155968').setName("༺Wel");
-client.channels.find('id', '507463091299155968').setName("༺Welc");
-client.channels.find('id', '507463091299155968').setName("༺Welco");
-client.channels.find('id', '507463091299155968').setName("༺Welcom");
-client.channels.find('id', '507463091299155968').setName("༺Welcome");
-client.channels.find('id', '507463091299155968').setName("༺Welcome T");
-client.channels.find('id', '507463091299155968').setName("༺Welcome To");
-client.channels.find('id', '507463091299155968').setName("༺Welcome To R");
-client.channels.find('id', '507463091299155968').setName("༺Welcome To Ra");
-client.channels.find('id', '507463091299155968').setName("༺Welcome To Rad༻");
-client.channels.find('id', '507463091299155968').setName("༺Welcome To Rad༻🌹");
-  }, 3000);
-});
 
 
    client.on('message', message => {
